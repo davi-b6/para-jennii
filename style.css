@@ -30,13 +30,6 @@ body {
     border-color: white;
     cursor: pointer;
     animation: pulse 3.5s infinite;
-    box-shadow: white 5px  1px;
-}
-
-.div1-main button:hover {
-    background-color: rgb(172, 17, 102);
-    box-shadow:  rgb(255, 164, 240) 5px  5px;
-    color: rgb(255, 164, 240);
 }
 
 @keyframes pulse {
